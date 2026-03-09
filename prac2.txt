@@ -1,2 +1,36 @@
 thik hu bhaii
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+git config --global user.name "parth262626"
+D:\git\prac2>git config --global user.email "parth.patil.5065940@ves.ac.in" 
+D:\git\prac2>git init 
+D:\git\prac2>git add . 
+D:\git\prac2>git commit -m "heyy" 
+D:\git\prac2>git remote add origin https://github.com/parth262626/dd.git 
+D:\git\prac2>git remote -v 
+D:\git\prac2>git push -u origin master
